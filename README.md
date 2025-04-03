@@ -14,4 +14,4 @@ Väljad töötavad, kuid vigase e-posti korral veateade ei pruugi alati ilmuda m
 
 
 
-Kokkuvõttes on veebileht üldiselt töökorras, kuid kontaktivormi vigade käsitlemist võiks parandada.
+## Kokkuvõttes on veebileht üldiselt töökorras, kuid kontaktivormi vigade käsitlemist võiks parandada.
