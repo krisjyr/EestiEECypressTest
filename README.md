@@ -11,4 +11,7 @@ Kuvab veateate, nagu peab.
 ## Kontaktivorm
 Väljad töötavad, kuid vigase e-posti korral veateade ei pruugi alati ilmuda millegipärast.  
 
+
+
+
 Kokkuvõttes on veebileht üldiselt töökorras, kuid kontaktivormi vigade käsitlemist võiks parandada.
